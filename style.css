@@ -1,3 +1,20 @@
-/* Font used
-font-family: 'PT Sans', sans-serif; 
-*/
+/* CSS Custome Properties */
+
+:root {
+
+    --ff-primary: 'PT Sans', sans-serif;
+
+    --fw-400: 400;
+    --fw-700: 700;
+
+    --fs-600: 2.25rem;
+    --fs-500: 20px;
+    --fs-400: 1.125rem;
+
+    --clr-neutral-400: hsl(0, 0%, 100%);
+
+    --clr-dark-400: hsl(0, 0%, 9%);
+
+    --clr-accent-400: hsl(148, 76%, 63%);
+    
+}
